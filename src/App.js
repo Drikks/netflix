@@ -3,7 +3,6 @@ import logo from "./logo.png";
 import "./App.css";
 import Section from "./components/Section";
 import data from "./data.json";
-console.log(data);
 
 const App = () => {
   return (
